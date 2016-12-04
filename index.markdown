@@ -3,21 +3,10 @@ layout: index
 published: true
 ---
 
-## Create a Learning Community that Lasts
+## Signing Online Petitions is Easy, but Being Effective in Getting Your Voice Heard Takes Knowledge - and Practice
 
-Online courses often feel large, intimidating and anonymous. It's hard to feel invested
-in multiple choice quizzes, textbook chapters and hum-drum Q &amp; A forums where you
-don't know anyone.
+Have you ever wanted to get involved in government decision making in the United States? Maybe your state legislature passed a bill that you didn't like, your favorite campsite is being closed, or you have a great idea for legislation. In most cases, you have a right to participate in government decision making, whether as a constituent calling your congressperson or by commenting on various project proposals at all levels of government. Being informed about governmental processes will make you more effective at participating, and make it more likely your voice is heard. This non-partisan course aims to help you learn about how different levels of government work, and what you can do to get involved.
 
-In a stellar learning experience, you'd know who was in the room and feel super-comfy.
-You'd make projects together and find help when you get stuck. You'd want to send people
-thank-you cards and chicken soup.
-
-We know designing a creative, participatory community can be tricky. We're here to help
-you **craft assignments** that rule, **build an audience** and support you along the way. You'll
-even learn a few technical skills in the process. Don't worry, 1s and 0s wash off
-pretty easily.
-		
 ## OK, but who are you guys?
 
 We're [Peer 2 Peer University](http://p2pu.org)--we build learning communities
